@@ -5,4 +5,5 @@ Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com
 
 
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 ![9b5b4f09d721f8e150572225f11deca1 (1) (1) (1)](https://user-images.githubusercontent.com/48218316/155902610-997d56bb-2abd-4ad3-bcd9-76442698eb86.gif)
